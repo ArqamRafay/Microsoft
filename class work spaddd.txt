@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+<!-
+<marquee loop=""><h1>Iqra University</h1></marquee>
+<marquee behaviour="alternate">Iqra University</marquee>
+<marquee direction="up">Iqra University</marquee>
+<marquee onMouseover="this.stop()"onMouseOut="this.start()">Iqra University</marquee>
+--  <dt>Coffee</dt>
+    <dd>hot coffee</dd>
+    <dd>cold coffee</dd>
+    <dd>Pathan ki coffee</dd>
+    <dd> NesCafe</dd>
+    <dt>Cold drink</dt>
+    <dt> 7up </dt>
+</dl>
+    <ol>
+        <li> Home </li>
+        <li> About </li>
+        <li> Contact </li>
+        <li> Portfolio </li>
+        <li> Test </li>
+    </ol>
+    <p>Do not forget To buy <mark>Mobile</mark></p>
+    <p>Price <del1>17000rs</del1> <ins>14000rs</ins></p>
+<p>Today Date <sub>28/11/2013</sub>HEllo world bla bla bla bla</p>
+<p>Today Date is 28<sup>th</sup>
+<center><p>welcome to Iqra University </p></center>
+<tr>
+    <td> <img src="images/11.jpg"></td>
+
+</tr>
+<table width="100%" border="5"
+ 
+    <tr>
+        <td>Col 1</td>
+        <td>col 2</td>
+        <td>col 3</td>
+        <td>col 4</td>
+    </tr>
+
+
+    <tr>
+        <td>col 5</td>
+        <td>col 6</td>
+        <td>col 7</td>
+        <td>col 8</td>
+    </tr>
+
+<tr>
+    <td>col 9</td>
+    <td>col 10</td>
+    <td>col 11</td>
+    <td>col 12</td>
+</tr>
+
+<tr>
+    <td>col 13</td>
+    <td>col 14</td>
+    <td>col 15</td>
+    <td>col 16</td>
+</tr>
+
+
+
+
+
+extraaa
+<tr>
+    <td> <img src="images/11.jpg"></td>
+
+</tr>
+<table width="100%" border="5"
+<tr>
+    <td colspan="3 ">sdfsd</td>
+</tr>
+    <tr>
+        <td>Col 1</td>
+        <td>col 2</td>
+        <td>col 3</td>
+        <td>col 4</td>
+    </tr>
+
+
+    <tr>
+        <td colspan="2"> dsgws</td>
+
+
+</table>
+
+
+
+</body>
+</html>
